@@ -6,6 +6,8 @@
 (* Collaborators and references: ChatGPT 4o, Stack Exchange, 
    Documents provided in SA2 write-up *)
 
+(* indicate planning to use the Unit testing module *)
+use "Unit.sml";
 
 (**** Problem A ****)
 
